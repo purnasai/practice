@@ -21,3 +21,11 @@ Now you might ask, why would we use PyTorch to build deep learning models? I can
 
 python == 3.6
 pytorch == 1.0.0
+
+#### Explanation of code in CNN using pytorch.ipynb file
+
+![scanimage](scan/1.jpg)
+
+![scanimage](scan/2.jpg)
+
+![scanimage](scan/3.jpg)
