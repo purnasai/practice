@@ -16,6 +16,14 @@ Style transfer relies on separating the content and style of an image. Given one
 
 In this notebook, we'll use a pre-trained VGG19 Net to extract content or style features from a passed in image. We'll then formalize the idea of content and style losses and use those to iteratively update our target image until we get a result that we want
 
+#### content image
+![before](images/octopus.jpg)
+
+#### style image
+![after](/images/hockney.jpg)
+
+### Results
+![Results](images/before.png)
 
 
 
