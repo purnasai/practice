@@ -20,7 +20,7 @@ In this notebook, we'll use a pre-trained VGG19 Net to extract content or style 
 ![before](images/octopus.jpg)
 
 #### style image
-![after](/images/hockney.jpg)
+![after](images/hockney.jpg)
 
 ### Results
 ![Results](images/before.png)
@@ -28,9 +28,11 @@ In this notebook, we'll use a pre-trained VGG19 Net to extract content or style 
 
 
 #### reference
-[link](https://github.com/purnasai/deep-learning-v2-pytorch/blob/master/style-transfer/Style_Transfer_Solution.ipynb)
+You can find the reference [link](https://github.com/purnasai/deep-learning-v2-pytorch/blob/master/style-transfer/Style_Transfer_Solution.ipynb)here.
 
 
 ![imageone](scan/1.jpg)
 
 ![imageone](scan/2.jpg)
+
+### Thank you for being here.
