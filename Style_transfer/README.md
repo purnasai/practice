@@ -38,6 +38,10 @@ In this notebook, we'll use a pre-trained VGG19 Net to extract content or style 
 
 ![Results](images/final3.png)
 
+![Results](images/compare1.png)
+
+
+
 
 #### reference
 You can find the reference [link](https://github.com/purnasai/deep-learning-v2-pytorch/blob/master/style-transfer/Style_Transfer_Solution.ipynb)here.
