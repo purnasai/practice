@@ -3,6 +3,10 @@ you can check out the explanation to the above code in this **well explained**  
 
 ![blog image](images/blog.png)
 
+![freezeNN](images/freezeNN.png)
+
+![scenario](images/TLScenario.png)
+
 
 
 ### Reference
