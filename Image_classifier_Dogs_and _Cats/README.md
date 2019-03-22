@@ -5,6 +5,8 @@ you can check out the explanation to the above code in this **well explained**  
 
 ![freezeNN](images/freezeNN.png)
 
+![scenario](images/TLScenario.png)
+
 
 
 ### Reference
