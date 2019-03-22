@@ -1,3 +1,10 @@
+## Blog:
+you can check out the explanation to the above code in this **well explained**  blog [here](https://medium.com/@purnasaigudikandula/deep-view-on-transfer-learning-with-iamge-classification-pytorch-5cf963939575)
+
+![blog image](images/blog.png)
+
+
+
 ### Reference
 For Reference check out the pytorch official documentation [here](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 
