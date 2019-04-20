@@ -2,6 +2,8 @@
 
 ## pytorch overview
 
+I clearly explained about this in My webiste. please check it out [here](https://purnasai.github.io/Deep-view-on-Transfer-learning-with-Iamge-classification-Pytorch/)
+
 From **Analytics vidhya** they say [here](https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/) that 
 
 PyTorch’s creators say that they have a philosophy – they want to be imperative. This means that we run our computation immediately. This fits right into the python programming methodology, as **we don’t have to wait for the whole code to be written before getting to know if it works or not. We can easily run a part of the code and inspect it in real time. For me as a neural network debugger, this is a blessing!**
