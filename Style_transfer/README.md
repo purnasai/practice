@@ -1,5 +1,7 @@
 ## Blog
-please check out the **blog** [here](https://medium.com/@purnasaigudikandula/artistic-neural-style-transfer-with-pytorch-1543e08cc38f)
+I clearly Explained about this in my website [here](https://purnasai.github.io/Artistic-Neural-Style-Transfer-with-Pytorch/)
+
+also please check out this **blog** [here](https://medium.com/@purnasaigudikandula/artistic-neural-style-transfer-with-pytorch-1543e08cc38f) in **Medium**
 
 ![img](images/result1.png)
 
