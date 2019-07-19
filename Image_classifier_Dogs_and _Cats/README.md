@@ -31,7 +31,7 @@ at Epoch 24/24
 
 **val Loss**: 0.0315 **Acc**: 0.9876
 
-**Training complete** in 133m 50s
+**Training complete** in 133m 50s with 4GB Ram + i3 processor
 
 **Best val Acc**: 0.988400
 
